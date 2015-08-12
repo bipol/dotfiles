@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/Users/bipol/Documents/ISPA/repos/spc2/spc2/spc2/tests'
+let g:netrw_dirhist_2='/Users/bipol/Documents/ISPA/repos/spc2/spc2/spc2/blueprints/auth'
+let g:netrw_dirhist_3='/Users/bipol/Documents/ISPA/poc/auws/public/static/js'
+let g:netrw_dirhist_4='/Users/bipol/Documents/ISPA/poc/auws/data'
+let g:netrw_dirhist_5='/Users/bipol/Documents/ISPA/repos/xleaflet/xleaflet/app/js'
+let g:netrw_dirhist_6='/Users/bipol/Documents/ISPA/repos/xleaflet/xleaflet/app'
+let g:netrw_dirhist_7='/Users/bipol/Documents/ISPA/repos/xleaflet/xleaflet/app/extern'
+let g:netrw_dirhist_8='/usr/share/file/magic'
